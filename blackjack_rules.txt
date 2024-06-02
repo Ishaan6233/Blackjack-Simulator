@@ -1,0 +1,33 @@
+The game begins with the player and the dealer receiving two cards each.
+The player's cards are dealt face-up, while the dealer typically has one card face-up and one face-down.
+The player can see their own cards but not the dealer's face-down card.
+
+The card values in blackjack are as follows: numbered cards 2 to 10 are worth their face value,
+                                             face cards (jack, queen, and king) are worth 10,
+                                             and an ace can be worth either 1 or 11,
+                                             depending on the player's choice.
+
+After receiving their initial two cards, the player has several options to choose from:
+
+Hit: The player can request an additional card from the dealer to increase their hand value.
+Stand: The player can choose to keep their current hand without receiving any more cards.
+Double Down: The player can double their initial bet and receive only one additional card.
+Split: If the player's initial two cards are of the same value (e.g., two 7s),
+they can choose to split them into two separate hands and play each hand independently.
+Surrender: In some variations, the player may have the option to surrender and forfeit half
+of their bet if they believe their chances of winning are low.
+Once the player completes their actions, it is the dealer's turn to play.
+The dealer reveals their face-down card, and they must follow a specific set of rules called the "dealer's rules" or "house rules."
+The most common rule is that the dealer must hit (take additional cards) until they reach a hand value of 17 or higher.
+After the dealer completes their actions, the hands are compared.
+
+The outcome of the game can be determined by the following scenarios:
+
+If the player's hand exceeds 21, they "bust" and lose the game.
+If the dealer's hand exceeds 21, they bust, and the player wins.
+If neither the player nor the dealer busts, the hand with a value closer to 21 wins.
+If both have the same hand value, it results in a "push" or tie, and the player retains their bet.
+If the player's initial two cards form a hand value of 21 (an ace and a 10-value card),
+it is called a "blackjack" or a "natural," resulting in an immediate win, typically paid at a higher payout ratio.
+"Blackjack" is a game that combines elements of strategy, probability, and decision-making.
+Players aim to make optimal decisions based on their hand value, the dealer's face-up card, and the likelihood of the remaining cards in the deck to maximize their chances of winning.
